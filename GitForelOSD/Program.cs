@@ -10,6 +10,7 @@ namespace GitForelOSD
     {
         static void Main(string[] args)
         {
+            //Initial
         }
     }
 }
